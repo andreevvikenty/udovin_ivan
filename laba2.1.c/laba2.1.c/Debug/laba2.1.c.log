@@ -1,0 +1,13 @@
+﻿  laba2.1.c.cpp
+C:\Users\Vikenty\source\repos\laba2.1.c\laba2.1.c\laba2.1.c.cpp(17,2): warning C4091: typedef : пропускается слева от "Planet", когда ни одна переменная не объявлена
+C:\Users\Vikenty\source\repos\laba2.1.c\laba2.1.c\laba2.1.c.cpp(23,10): warning C4477: "scanf_s": в строке форматирования "%f" требуется аргумент типа "float *", но вариативный аргумент "1" имеет тип "double *"
+C:\Users\Vikenty\source\repos\laba2.1.c\laba2.1.c\laba2.1.c.cpp(23,10): message : рекомендуется использовать "%lf" в строке форматирования
+C:\Users\Vikenty\source\repos\laba2.1.c\laba2.1.c\laba2.1.c.cpp(27,10): warning C4477: "scanf_s": в строке форматирования "%f" требуется аргумент типа "float *", но вариативный аргумент "1" имеет тип "double *"
+C:\Users\Vikenty\source\repos\laba2.1.c\laba2.1.c\laba2.1.c.cpp(27,10): message : рекомендуется использовать "%lf" в строке форматирования
+C:\Users\Vikenty\source\repos\laba2.1.c\laba2.1.c\laba2.1.c.cpp(31,10): warning C4477: "scanf_s": в строке форматирования "%f" требуется аргумент типа "float *", но вариативный аргумент "1" имеет тип "double *"
+C:\Users\Vikenty\source\repos\laba2.1.c\laba2.1.c\laba2.1.c.cpp(31,10): message : рекомендуется использовать "%lf" в строке форматирования
+C:\Users\Vikenty\source\repos\laba2.1.c\laba2.1.c\laba2.1.c.cpp(89,10): warning C4477: "scanf_s": в строке форматирования "%f" требуется аргумент типа "float *", но вариативный аргумент "1" имеет тип "double *"
+C:\Users\Vikenty\source\repos\laba2.1.c\laba2.1.c\laba2.1.c.cpp(89,10): message : рекомендуется использовать "%lf" в строке форматирования
+C:\Users\Vikenty\source\repos\laba2.1.c\laba2.1.c\laba2.1.c.cpp(101,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+C:\Users\Vikenty\source\repos\laba2.1.c\laba2.1.c\laba2.1.c.cpp(108,10): warning C4101: choise: неиспользованная локальная переменная
+  laba2.1.c.vcxproj -> C:\Users\Vikenty\source\repos\laba2.1.c\Debug\laba2.1.c.exe
